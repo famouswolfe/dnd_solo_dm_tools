@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/famouswolfe/dnd_solo_dm_tools/issues"
   },
-  "homepage": "https://github.com/famouswolfe/dnd_solo_dm_tools#readme"
+  "homepage": "https://github.com/famouswolfe/dnd_solo_dm_tools#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0"
+  }
 }
