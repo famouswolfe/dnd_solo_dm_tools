@@ -1,0 +1,20 @@
+{
+  "name": "dnd_solo_dm_tools",
+  "version": "1.0.0",
+  "description": "a tool that automates dice rolls when playing solo DnD",
+  "main": "dnd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famouswolfe/dnd_solo_dm_tools.git"
+  },
+  "keywords": [],
+  "author": "Rudy Concepcion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/famouswolfe/dnd_solo_dm_tools/issues"
+  },
+  "homepage": "https://github.com/famouswolfe/dnd_solo_dm_tools#readme"
+}
